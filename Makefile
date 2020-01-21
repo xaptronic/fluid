@@ -11,7 +11,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 SSH_HOST=tsweb02.xaptronic.com
 SSH_PORT=22
 SSH_USER=root
-SSH_TARGET_DIR=/home/admin/web/fluid.rocks/public_html
+SSH_TARGET_DIR=/home/admin/web/fluid.rocks/public_html/new
 
 
 DEBUG ?= 0
